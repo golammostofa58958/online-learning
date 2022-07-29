@@ -6,3 +6,9 @@
 .registration {
     background-color: #289bde;
 }
+
+.company-img {
+    height: auto;
+    display: flex;
+    justify-content: space-between;
+}
